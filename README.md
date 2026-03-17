@@ -10,6 +10,8 @@ This repository contains code to reproduce the *analysis workflow* described in 
 
 No patient-level data is included here. You must provide de-identified input tables locally.
 
+A GUI to interact with our trianed model from Varghese, Ng et al can be accessed here: https://019c2071-2788-bd90-6439-393728369ded.share.connect.posit.cloud/.<img width="468" height="14" alt="image" src="https://github.com/user-attachments/assets/3f143713-946e-43fc-b843-d3b78cfaa1fe" />
+ 
 ---
 
 ## Repository structure
